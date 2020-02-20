@@ -19,5 +19,6 @@ def get_version():
     print(PySide2.QtCore.__version_info__)
 
 
+
 if __name__ == '__main__':
     get_version()
